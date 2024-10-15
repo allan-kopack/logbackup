@@ -15,13 +15,13 @@ Before packaging the script will also scan for any errors, failures, or critical
 ```md
 ./log_backup.sh -l LOGFILE [options]
 ```
-`-h`:Displays the following help message
+`-h`: Displays the following help message
 
-`-l LOGFILE`:Specify the log file to back up
+`-l LOGFILE`: Specify the log file to back up
 
-`-o DIRECTORY`:Specify the output directory of the archive - current directory default
+`-o DIRECTORY`: Specify the output directory of the archive - current directory default
 
-`-v`:Enable verbose output
+`-v`: Enable verbose output
 
 ## Example 
 
